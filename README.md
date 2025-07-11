@@ -21,10 +21,10 @@ To replicate the results on the paper, either run the scripts within each folder
 
 ***Important Disclaimer:*** The data used in this study was downloaded from the following sources.
 
- - [CRSP_Monthly.csv]([https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/center-for-research-in-security-prices-crsp/](https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/center-for-research-in-security-prices-crsp/)) from the CRSP Monthly Database
- - [CRSP_Daily.csv]([https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/center-for-research-in-security-prices-crsp/](https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/center-for-research-in-security-prices-crsp/)) from the CRSP Daily Database
+ - [CRSP_Monthly.csv](https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/center-for-research-in-security-prices-crsp/) from the CRSP Monthly Database
+ - [CRSP_Daily.csv](https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/center-for-research-in-security-prices-crsp/) from the CRSP Daily Database
  - [Characteristics Data](https://dachxiu.chicagobooth.edu/download/datashare.zip](https://dachxiu.chicagobooth.edu/download/datashare.zip)) from Dacheng Xiu's webpage.
 
 ## Additional Resources
- - Explain c functions 
+ - C functions, Shell scripts.
  
