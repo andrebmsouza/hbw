@@ -14,21 +14,17 @@ by Christian Brownlees and Andre B.M. Souza which is available on SSRN at the ad
 
 ## Instructions
 
-To replicate the results on the paperun the script <tt>gar_replication.m</tt>.
-The script will create Tables 4 to 6 of the paper. The tables will be stored as individual CSV files in the directory <tt>tables</tt>.
+To replicate the results on the paper, either run the scripts within each folder sequentially (i.e start from folder 00 and run scripts inside each folder) or run the shell script `main.sh`
+
 
 ## Data
 
-***Important Disclaimer:*** The data used in this study was downloaded from the following sources in June 2019.
+***Important Disclaimer:*** The data used in this study was downloaded from the following sources.
 
- - [CRSP]([https://stats.oecd.org/sdmx-json/data/DP_LIVE/.QGDP.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en](https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/center-for-research-in-security-prices-crsp/)) from the CRSP Database
- - [Characteristics Data]([https://www.imf.org/~/media/Files/Publications/GFSR/2017/October/chapter-3/csv-data/data-appendix.ashx?la=eni](https://dachxiu.chicagobooth.edu/download/datashare.zip)) from Dacheng Xiu's webpage.
+ - [CRSP_Monthly.csv]([https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/center-for-research-in-security-prices-crsp/](https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/center-for-research-in-security-prices-crsp/)) from the CRSP Monthly Database
+ - [CRSP_Daily.csv]([https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/center-for-research-in-security-prices-crsp/](https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/center-for-research-in-security-prices-crsp/)) from the CRSP Daily Database
+ - [Characteristics Data](https://dachxiu.chicagobooth.edu/download/datashare.zip](https://dachxiu.chicagobooth.edu/download/datashare.zip)) from Dacheng Xiu's webpage.
 
 ## Additional Resources
-### [Vulnerable Growth Replication Files (Adrian et al, 2019)](https://www.aeaweb.org/articles?id=10.1257/aer.20161923)
- - rq.m: Function to compute quantile regression. Source: Vulnerable Growth Replication Files (Adrian et al, 2019)
- - QuantilesInterpolation.m: Function to interpolate quantiles and get a Skewed T.
- - 
-### Packages:
- - [SDPT3-4.0](https://github.com/sqlp/sdpt3)
+ - Explain c functions 
  
